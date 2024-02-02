@@ -29,7 +29,8 @@ twitter_username: TouilleNouille
 github_username:  touillenouille
 
 # Build settings
-theme: jekyll-theme-cayman 
+#theme: jekyll-theme-cayman 
+theme: minima
 plugins:
   - jekyll-feed
 
