@@ -30,7 +30,7 @@ twitter_username: TouilleNouille
 github_username:  touillenouille
 
 # Build settings
-theme: Cayman 
+theme: cayman 
 plugins:
   - jekyll-feed
 
