@@ -1,8 +1,8 @@
 ---
 share: true
 title: Blog with obsidian
-date: 2022-10-15 06:00:00 -0400
-filename: _posts/Blog_with_Obsidian.md
+date: 2024-02-06 06:00:00 -0400
+filename: _posts/2024-02-06-Blog_with_Obsidian.md
 tags:
   - obsidian
 ---
@@ -10,8 +10,8 @@ tags:
 ---
 share: true
 title: "Blog with obsidian"
-date: 2022-10-15 06:00:00 -0400
-filename: "_posts/Blog_with_Obsidian.md"
+date: 2024-02-06 06:00:00 -0400
+filename: "_posts/2024-02-06-Blog_with_Obsidian.md"
 tags: [obsidian]
 ---
 
